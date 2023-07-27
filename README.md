@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **next js, Node**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **hasan15-3112@diu.edu.bd**
 
