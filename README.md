@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Hasan Miah</h1>
-<h3 align="center">A JavaScript Developer</h3>
+<h3 align="center">A JavaScript Developer | Passionate about Web Development</h3>
 
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" alt="coding" width="400"/>
@@ -11,19 +11,11 @@
 
 ---
 
-### 🌱 **Currently Learning**
-- Next.js
-- Node.js
-
-### 💬 **Ask Me About**
-- Web Development  
-- JavaScript & React.js  
-- Backend with Node.js & MongoDB  
-
-### 📫 **Reach Me At**
-- 📧 Email: **hasan15-3112@diu.edu.bd**
-- 🔗 [LinkedIn](https://linkedin.com/in/mohammad-hasan-184904205)
-- 🌐 [Facebook](https://fb.com/hasan.15.3112)
+### 💻 **About Me**
+- 🚀 I’m a **JavaScript Developer** with expertise in **React.js, Next.js, and Node.js**  
+- 💡 I love working on **modern web applications** and backend systems  
+- 🔥 Currently learning **Go** and **Laravel** for backend development  
+- 📫 Reach me at **hasan15-3112@diu.edu.bd**  
 
 ---
 
@@ -37,7 +29,8 @@
   <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://go.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/></a>
+  <a href="https://laravel.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
 </p>
 
 ---
@@ -61,11 +54,15 @@
 
 ---
 
-### ✅ **Fixes & Improvements**
-✔ **Better Alignment**: Sections are properly centered and structured  
-✔ **Clean & Minimalistic Design**: Less clutter, more focus  
-✔ **Dark Mode Friendly**: Uses "tokyonight" theme for a sleek look  
-✔ **Compact Language Section**: Shows only the top used languages  
+### 🔗 **Connect with Me**
+<p align="left">
+<a href="https://linkedin.com/in/mohammad-hasan-184904205" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+</a>
+<a href="https://fb.com/hasan.15.3112" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
+</a>
+</p>
 
 ---
 
