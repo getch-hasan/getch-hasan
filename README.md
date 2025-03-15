@@ -1,21 +1,24 @@
-<h1 align="center">Hi 👋, I'm MD Hasan Miah</h1>
-<h3 align="center">A JavaScript Developer | Passionate about Web Development</h3>
+## 🚀 Hi, I'm MD Hasan Miah!  
+### A Passionate JavaScript Developer
 
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" alt="coding" width="400"/>
-</p>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=getch-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+💡 **Currently Exploring:** Next.js, Node.js  
+🔧 **Tech Stack:** React.js, Redux, TypeScript, MongoDB, Express.js, Tailwind CSS  
+💬 **Ask Me About:** Web Development, JavaScript, and Frontend Best Practices  
+📩 **Contact Me:** hasan15-3112@diu.edu.bd  
 
 ---
 
-### 💻 **About Me**
-- 🚀 I’m a **JavaScript Developer** with expertise in **React.js, Next.js, and Node.js**  
-- 💡 I love working on **modern web applications** and backend systems  
-- 🔥 Currently learning **Go** and **Laravel** for backend development  
-- 📫 Reach me at **hasan15-3112@diu.edu.bd**  
+### 🌎 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/mohammad-hasan-184904205" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://fb.com/hasan.15.3112" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
+  </a>
+</p>
 
 ---
 
