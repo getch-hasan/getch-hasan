@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-💡 **Currently Exploring:** Next.js, Node.js  
+💡 **Currently Exploring:** Laravel, Golang  
 🔧 **Tech Stack:** React.js, Redux, TypeScript, MongoDB, Express.js, Tailwind CSS  
 💬 **Ask Me About:** Web Development, JavaScript, and Frontend Best Practices  
 📩 **Contact Me:** hasan15-3112@diu.edu.bd  
